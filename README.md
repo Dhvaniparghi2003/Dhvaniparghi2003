@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Dhvani Parghi</h1>
-
+---
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhvani Parghi
+</h1>
 <h3 align="center">Full Stack Developer | Web Developer</h3>
 
 
@@ -24,19 +25,6 @@
 - **Hackinfinity 3.0, Swadheenta '23 Hackathon** - DAIICT  
 - **Deep Dive into Dimensionality Reduction: Machine Learning Workshop** - LDRP-ITR  
 
-## 📞 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedinprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:dhvaniparghi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</p>
 
 ## 🛠️ Languages and Tools
 
