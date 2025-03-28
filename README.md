@@ -43,5 +43,4 @@
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
 </p>
 
----
 
