@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+ ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhvani Parghi
 </h1>
@@ -32,4 +32,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
 </p>
- if you want to improve it
