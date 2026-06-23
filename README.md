@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack .NET Developer</b> · ASP.NET Core · MySQL · jQuery · Bootstrap
+  <b>Full-Stack Developer</b> · .NET · MERN · Next.js · MySQL
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building a full-stack **.NET Impact Tracker** — ASP.NET Core Web API + MVC client with MySQL and jQuery
-- 🛠️ My daily stack: **C# · ASP.NET Core · Dapper · FluentValidation · MySQL · jQuery AJAX · Bootstrap**
-- 🧠 Experienced with layered REST APIs, stored procedures, dynamic CRUD modules, and BCrypt auth
+- 🔭 Building **VendorFlow** — a B2B vendor onboarding & KPI tracker in ASP.NET Core + MySQL
+- 🛠️ .NET stack: **C# · ASP.NET Core · Dapper · FluentValidation · MySQL · jQuery AJAX · Bootstrap**
+- ⚡ JS stack: **React · Next.js 14 · Node.js · MongoDB · Prisma · Stripe Connect · Tailwind CSS**
+- 🧠 Experienced with layered APIs, stored procedures, SaaS multi-tenancy, and role-based auth
 - 📫 Reach me at **dhvaniparghi2003@gmail.com**
-- ⚡ Fun fact: I debug stored procedures and JavaScript on the same afternoon — and still ship on time
 
 ---
 
@@ -44,69 +44,82 @@
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**Backend — .NET**
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-004880?style=for-the-badge&logo=nuget&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-B22222?style=for-the-badge&logo=nuget&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Backend — JavaScript**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Razor MVC](https://img.shields.io/badge/Razor_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Also worked with**
+**Tools & Cloud**
 
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### 🌱 NGO Program Impact Tracker &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhvaniparghi2003/ngo-impact-tracker) &nbsp; ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square)
+---
 
-> A full-stack data management system for tracking NGO/social program outcomes — ASP.NET Core Web API + Razor MVC client.
+### 🏢 VendorFlow — B2B Vendor Onboarding & KPI Tracker &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhvaniparghi2003/vendorflow) &nbsp; ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square)
 
-- 📊 KPI entry per program with **target vs actual** comparisons
-- 🗓️ Periodicity-based reporting — Monthly, Quarterly, Half-Yearly
-- 🧩 Dynamic CRUD tables generated from stored procedures
-- 🔐 BCrypt authentication with role-based access
-- **Stack:** `ASP.NET Core` `Dapper` `MySQL` `FluentValidation` `jQuery AJAX` `Bootstrap`
+> A multi-tenant B2B platform where companies onboard vendors, assign monthly/quarterly KPI targets, track actual vs target performance, and receive automated alerts on underperformance.
+
+- 🏭 Companies register and onboard vendors through an approval workflow
+- 📊 KPI assignment per vendor — delivery time, quality score, cost compliance
+- 🗓️ Periodicity-based scorecards — Monthly, Quarterly, Half-Yearly
+- 📧 Automated email alerts when vendor KPI drops below threshold
+- 🔐 Role-based access: Admin → Company → Vendor
+- **Stack:** `ASP.NET Core` `C#` `Dapper` `MySQL Stored Procedures` `FluentValidation` `jQuery AJAX` `Bootstrap` `BCrypt`
 
 ---
 
-### 💼 HireHub &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhvaniparghi2003/YOUR-HIREHUB-REPO)
+### ☁️ Plura — SaaS Website Builder & Project Management &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhvaniparghi2003/Plura-Production)
 
-> A job recruitment platform connecting employers and applicants with real-time status tracking and application management.
+> A fully-featured multi-vendor SaaS platform with a drag-and-drop website/funnel builder, Stripe subscription billing, agency and sub-account management, and real-time analytics.
 
-- 👔 Employers can post jobs; applicants can browse, filter, and apply
-- 📬 Real-time application status updates for full transparency
-- 🔍 Advanced search and filter by role, location, and skill
-- **Stack:** `JavaScript` `HTML` `CSS` `MySQL`
+- 🏗️ Full website & funnel builder with custom checkouts and funnel hosting
+- 🏢 Multi-vendor B2B2B: Agency → Sub-accounts → End clients
+- 💳 Stripe Connect — subscription plans, add-on products, per-sale application fees
+- 📋 Kanban board, notifications, lead capture, and role-based dashboards
+- **Stack:** `Next.js 14` `TypeScript` `Prisma` `MySQL` `Stripe Connect` `Clerk Auth` `Tailwind CSS` `Bun`
 
 ---
 
-### 📚 [Plural Project Name] &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhvaniparghi2003/YOUR-PLURAL-REPO)
+### 💼 HireHub — Job Portal Application &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhvaniparghi2003/HIREHUB)
 
-> *(Add a 1-line description of this project here)*
+> A full-stack MERN job portal connecting job seekers with recruiters — with employer dashboards, job applications, email notifications, and Cloudinary file uploads.
 
-- *(Add 2–3 bullet points about what it does)*
-- **Stack:** *(Add your stack here)*
+- 👔 Employers post and manage jobs; job seekers apply with profiles
+- 🔍 Job listings with filters and search
+- 📩 Email notification system via Nodemailer
+- ☁️ File/image uploads via Cloudinary
+- **Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Bcrypt` `Nodemailer` `Cloudinary` `Tailwind CSS`
 
 ---
 
