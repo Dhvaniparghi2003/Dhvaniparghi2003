@@ -34,13 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhvaniparghi2003&theme=flat&no-frame=true&column=6&margin-w=8" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
